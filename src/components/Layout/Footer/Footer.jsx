@@ -91,7 +91,7 @@ const Footer = () => {
             </ul>
           </div>
           <div className="copy_r">
-            <span>© 2023 Finder® India Inc.</span>
+            <span>© 2025 Finder® India Inc.</span>
             <ul>
               <li>Term & Condition</li>
               <li>Privacy Policy</li>
