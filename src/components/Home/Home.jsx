@@ -307,7 +307,7 @@ const Home = () => {
                   <input
                     required
                     type="text"
-                    placeholder="Rachit Patel"
+                    placeholder="Nilesh Kumar Singh"
                     value={subscribeName}
                     onChange={(e) => setSubscribeName(e.target.value)}
                     style={{
@@ -317,7 +317,7 @@ const Home = () => {
                   <input
                     required
                     type="email"
-                    placeholder="rachit@gmail.com"
+                    placeholder="nileshkumarsingh9245@gmail.com"
                     value={subscribeEmail}
                     onChange={(e) => setSubscribeEmail(e.target.value)}
                   />
